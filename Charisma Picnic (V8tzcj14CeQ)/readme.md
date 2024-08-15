@@ -1,4 +1,6 @@
-https://www.youtube.com/watch?v=V8tzcj14CeQ  
+https://youtu.be/V8tzcj14CeQ  
+Hardsub: https://youtu.be/wDAnn8djveI
+
 
 very epic subs
 
