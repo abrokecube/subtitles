@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=V8tzcj14CeQ  
+
 very epic subs
 
 `charisma picnic.ass` is the base file before trimming the fat (optimizations)  
