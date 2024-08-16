@@ -1,4 +1,6 @@
-https://youtu.be/V8tzcj14CeQ  
+YouTube: https://youtu.be/V8tzcj14CeQ
+NekoCap: https://nekocap.com/view/GMIOcda1XL
+
 Hardsub: https://youtu.be/wDAnn8djveI
 
 
