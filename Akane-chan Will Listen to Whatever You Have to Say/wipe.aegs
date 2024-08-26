@@ -1,0 +1,104 @@
+use this: get-content .\wipe.aegs | aegsc.exe | clip
+this copies compiled text to clipboard
+
+
+%[ code once $ Sign
+	clip_tl_x = 720
+	clip_tl_y = 744
+	clip_br_x = 1508
+	clip_br_y = 1030
+	wipe_dist = 70
+	wipe_end_t = 400
+	wipe_out_start_t = 2854
+	wipe_out_end_t = 3221
+	wipe_slope = 1
+	-- fbf_sr = 1000/(24000/1001)*1 -- 23.976... fps
+	fbf_sr = 1000/(30000/1001)*1
+%]
+
+%[ code once $ Sign
+	function easing(x)
+		-- easeOutSine
+		-- return math.sin((x * math.pi) / 2);
+		-- exponential ease out
+		local p = 1.3
+		if ease_in_trans then
+			return math.pow(x, p)
+		end
+    	return 1 - math.pow(1 - x, p)
+	end
+%]
+
+%[ code once $ Sign
+	function frame_to_ms(frames)
+		-- return 1000/(24000/1001) * frames -- assuming 23.976
+		return 1000/(30000/1001) * frames
+	end
+	function ms_to_frame(ms)
+    	return ms / (1000 / (30000 / 1001))
+	end
+%]
+
+%[ code once $ Sign
+	function remap(value, start_in, end_in, start_out, end_out, clamp)    
+		local remapped = start_out + (end_out - start_out) * ((value - start_in) / (end_in - start_in))
+		if clamp then
+	        remapped = math.max(math.min(remapped, end_out), start_out)
+        end
+        return remapped
+    end
+%]
+
+%[ code once $ Sign
+    function round(x, n)
+    	return tonumber(string.format("%." .. n .. "f", x))
+	end
+%]
+
+%[ code once $ Sign
+	function wipe_trans(frame_num)
+		local clip_shape = ""
+		local w = clip_br_x - clip_tl_x
+		local h = clip_br_y - clip_tl_y
+		local segments = math.floor(w / wipe_dist)
+		local prog = easing(remap(frame_to_ms(frame_num),0,wipe_end_t,0,1,true))
+		if frame_to_ms(frame_num) >= wipe_out_start_t then
+			prog = easing(remap(wipe_out_end_t-frame_to_ms(frame_num),0,wipe_out_end_t-wipe_out_start_t,0,1,true))
+		end
+		if prog == 1 then
+			return ""
+		end
+		for i=0,segments,1 do
+			--[[
+				      2      1
+				       *----*
+					  /    /
+					 /    /
+					*----*
+	               4      3
+			]]--
+			local x1 = round(clip_tl_x + i*wipe_dist,1)
+			local x2 = round(x1 - prog*wipe_dist,1)
+			local x3 = round(x1 - h*wipe_slope,1)
+			local x4 = round(x3 - prog*wipe_dist,1)
+			if reverse then
+				x2 = round(x1 + prog*wipe_dist,1)
+				x4 = round(x3 + prog*wipe_dist,1)
+			end
+			local y12 = round(clip_tl_y,1)
+			local y34 = round(y12 + h,1)
+			clip_shape = clip_shape .. string.format(
+				"m %s %s l %s %s %s %s %s %s ",
+				x1, y12,
+				x2, y12,
+				x4, y34,
+				x3, y34
+			)
+		end
+		return "\\clip(" .. clip_shape .. ")"
+	end
+%]
+
+%[ template line notext $ Sign
+	!util.fbf("line")!{!wipe_trans($loop_fbf)!}!line.text!
+%]
