@@ -1,9 +1,8 @@
 
-<center>
 
-# Bad Apple
-![](./img/preview.webp)  
-</center>
+<h1 align='center'>Bad Apple</h1>  
+
+<img align='center' src='./img/preview.webp'>
 
 ### `bad apple_lyrics_360p.ass` - Most popular upload
 YouTube: https://www.youtube.com/watch?v=FtutLA63Cp8  
@@ -14,7 +13,7 @@ YouTube: https://www.youtube.com/watch?v=i41KoE0iMYU
 NekoCap: https://nekocap.com/view/jWFqMLHAjo
 
 ### `bad apple_ass.ass` - Bad apple but it's ASS captions (under 20mb)
-<u>**DON'T open this file**, it makes aegisub freeze while loading the file for some reason</u>. instead, open  
+**DON'T open this file**, it makes aegisub freeze while loading the file for some reason. instead, open  
 `bad_apple_ass_noembed.ass` - Caption file without embedded fonts  
 
 YouTube: https://www.youtube.com/watch?v=G8DjxY8FNKA   
@@ -57,7 +56,7 @@ this other release (translation source, uses `\clip`s): [[XC] Touhou - Bad Apple
 
 ## how to use script
 you don't.  
-but if you really want to, understand that <u>I will not provide support for this script.</u>
+but if you really want to, understand that **I will not provide support for this script**
 ### requirements
 - Python 3.12 (earlier versions will probably work)   
 - These packages:
