@@ -44,7 +44,7 @@ this other release (translation source, uses `\clip`s): [[XC] Touhou - Bad Apple
 ![](./img/clips.png)
 ![](./img/clipped_lines.png)
 
-<img src='./img/shrimp-as.gif' align='right' width='200'>
+<img src='./img/shrimp-as.gif' align='right' width='300'>
 
 6. do the raster to vector thing but for multiple (one) shades of grey
 7. turn those into draw commands
