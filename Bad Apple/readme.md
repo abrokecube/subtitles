@@ -52,7 +52,7 @@ this other release (translation source, uses `\clip`s): [[XC] Touhou - Bad Apple
 12. compress (convert to woff2 using fontforge) and embed fonts into file
 13. profit (file is now around 18mb) 
 
-![](./img/shrimp-as.gif)
+<img src='./img/shrimp-as.gif' align='center' width='300'>
 
 ## how to use script
 you don't.  
