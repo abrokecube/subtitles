@@ -43,7 +43,9 @@ this other release (translation source, uses `\clip`s): [[XC] Touhou - Bad Apple
 5. shove those draw commands into `\clip`s and `\iclip`s and now you have `bad apple_lyrics_1080p.ass`
 ![](./img/clips.png)
 ![](./img/clipped_lines.png)
+
 <img src='./img/shrimp-as.gif' align='right' width='200'>
+
 6. do the raster to vector thing but for multiple (one) shades of grey
 7. turn those into draw commands
 8. realize a whole file filled with draw commands would be around 50mb (not good for nekocap server probably)
