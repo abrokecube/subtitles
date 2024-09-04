@@ -10,3 +10,4 @@ Hardsub: https://youtu.be/qwCK0obJdyA
 `wipe.aegs`:  
 ![](./transition.webp)  
 karaoke template code for this transition (use with [aegsc](https://github.com/butterfansubs/aegsc) and [The0x539's templater](https://github.com/The0x539/Aegisub-Scripts/blob/trunk/src/0x.KaraTemplater.moon))
+`akanechan kara.ass`, `akanechan kara_fbf.ass`, `akanechan kara_fbf.ytt` - subs for youtube upload
