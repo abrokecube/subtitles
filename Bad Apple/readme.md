@@ -23,7 +23,8 @@ NekoCap: https://nekocap.com/view/o1YAv1n8xh
 
 
 ### `Bad Apple!! feat.nomico.mkv` - Video file with subtitles embedded
-Watch the subs without judder caused by framerate mismatch (bad apple is 29.97 fps while the youtube video is in 30 fps)
+Watch the subs without judder caused by framerate mismatch (bad apple is 29.97 fps while the youtube video is in 30 fps)  
+ttf version of the font is embedded here
 
 ### `BadAppleFont.ttf` & `BadAppleFont.woff2` - 12.8k glyphs of bad apple
 The woff2 version is embedded into `bad apple_ass.ass`  
@@ -65,8 +66,8 @@ but if you really want to, understand that **I will not provide support for this
 ```
 pip install potracer opencv-python pysubs2 ass-tag-parser
 ```
-- [Fontforge](https://fontforge.org/en-US/) (optional, only required for font creation)
 - [FBF-ifier](https://github.com/TypesettingTools/arch1t3cht-Aegisub-Scripts?tab=readme-ov-file#fbf-ifier) script for Aegisub. If your build of Aegisub includes Dependency Control then use that to install the script.
+- optional: [Fontforge](https://fontforge.org/en-US/) (only required for font creation)
 
 ### instructions
 1. In your subtitle file, add a rect `\clip` or `\iclip` to lines you want the script to work on. Those lines can have transforms (`\t`), but not fades (`\fad` or `\fade`). The FBF script doesn't work on those. If you want fading lines, use transforms with alpha tags.
