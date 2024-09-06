@@ -1,0 +1,26 @@
+%[ code once $ Romanji
+	fbf_sr = 1000/(24000/1001)
+%]
+
+%[ code once $ Romanji
+	function shake(start, dur, strength, rate)
+		if not rate then
+			rate = 1
+		end
+	 	res = ""
+	 	curr_t = start
+		t_add = fbf_sr*rate
+	 	while (curr_t < dur) do 		
+	 		res = res .. "\\t(" .. ln.math.round(curr_t) .. "," .. ln.math.round(curr_t+1) .. ",1,\\xshad" .. util.rand.sign()*strength .. ")"
+	 		curr_t = curr_t + t_add
+	 	end
+	 	curr_t = start
+	 	while (curr_t < dur) do
+	 		res = res .. "\\t(" .. ln.math.round(curr_t) .. "," .. ln.math.round(curr_t+1) .. ",1,\\yshad" .. util.rand.sign()*strength .. ")"
+	 		curr_t = curr_t + t_add
+	 	end
+	 	return res
+	 end
+%]
+
+

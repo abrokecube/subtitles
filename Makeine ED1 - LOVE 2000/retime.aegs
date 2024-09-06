@@ -1,0 +1,66 @@
+use this: get-content .\wipe.aegs | aegsc.exe | clip
+this copies compild text to clipboard
+
+%[ code once $ Romanji
+	ENGLISH_STYLE = "English"
+	ROMANJI_STYLE = "Romanji"
+%]
+
+%[ code once $ Romanji
+	function _getNextEnglish(orgline)
+		if _eng_line then
+			_eng_line = _eng_line.next
+		else
+			_eng_line = orgline
+			while _eng_line.style ~= ENGLISH_STYLE do
+				if not _eng_line then
+					print('THERE IS A PROBLEM')
+					break
+				end
+				_eng_line = _eng_line.next
+			end
+		end
+		return _eng_line
+	end
+%]
+
+English lines must come after the romanji lines
+%[ code once $ Romanji
+	function getRomanjiEnglishLine(orgline)
+		if not _eng_line_index then
+			_eng_line_index = {}
+		end
+		if not _eng_line_index[orgline.start_time] then
+			_eng_line_index[orgline.start_time] = _getNextEnglish(orgline)
+		end
+		return _eng_line_index[orgline.start_time]
+	end
+%]	
+
+English lines must come after the romanji lines
+%[ code once $ Romanji
+	function getRomanjiLineStartOffset(orgline)
+		return orgline.start_time - getRomanjiEnglishLine(orgline).start_time
+	end
+%]
+
+Alias
+%[ code once $ Romanji
+	function engStartOff(orgline)
+		return getRomanjiLineStartOffset(orgline)
+	end
+%]
+
+English lines must come after the romanji lines
+%[ code once $ Romanji
+	function getRomanjiLineEndOffset(orgline)
+		return orgline.end_time - getRomanjiEnglishLine(orgline).end_time
+	end
+%]
+
+Alias
+%[ code once $ Romanji
+	function engEndOff(orgline)
+		return getRomanjiLineEndOffset(orgline)
+	end
+%]
