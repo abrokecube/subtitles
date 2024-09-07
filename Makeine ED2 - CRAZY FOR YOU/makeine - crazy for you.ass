@@ -724,6 +724,3 @@ Dialogue: 0,0:01:10.67,0:01:10.88,English,glow,0,0,0,,{\an9\c&HFFFFFF&\pos(1838,
 Dialogue: 0,0:01:10.67,0:01:10.88,Romanji,glow,0,0,0,,{\an9\c&HFFFFFF&\pos(1838,126)\blur10\1a&HFF&\t(1,\1a&H00&)}Ima sugu aitai yo I'm just crazy for you
 Dialogue: 0,0:01:10.67,0:01:10.88,English,glow,0,0,0,,{\an9\c&HFFFFFF&\pos(1838,64)\blur10\1a&HFF&\t(1,\1a&H00&)}I want to see you right now, I'm just crazy for you
 
-[Aegisub Extradata]
-Data: 0,a-mo,e{"uuid"#3A"c0f25378-a31f-49bd-954b-74f1bcc6c103"#2C"originalText"#3A"{\\an9\\bord2\\3c&H241913&\\c&HE2F8EA&\\pos(1690.84#2C41.43)}A lingering missed call#2C your name"}
-Data: 1,a-mo,e{"uuid"#3A"2810f992-709a-4220-8608-a2300b7d3db0"#2C"originalText"#3A"{\\an9\\bord2\\3c&H241913&\\c&HE2F8EA&\\pos(1690.84#2C103.43)}Nokoru chakushin kimi no namae"}
