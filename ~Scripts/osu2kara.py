@@ -1,3 +1,6 @@
+# REQUIREMENTS
+# pip install slider
+
 # HOW TO USE
 # Create an osu beatmap timed to the lyrics
 # New combos (new color) will skip to the next line
