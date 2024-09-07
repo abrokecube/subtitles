@@ -1,6 +1,6 @@
 # Example usage
 # Powershell - Get content from text file "lyrics.txt" and output to lyrics_syl.txt
-# get-content python.exe .\syllablize.py ".\lyrics.txt" > lyrics_syl.txt
+# python .\syllablize.py ".\lyrics.txt" > lyrics_syl.txt
 
 import re
 import sys
