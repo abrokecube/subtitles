@@ -24,7 +24,7 @@
 # Output is printed onto the console
 
 
-HITSOUND_AS_INLINE_FX = False
+HITSOUNDS_AS_INLINE_FX = True
 KF_ON_SLIDER = False
 SLIDER_TO_END_TIME = False
 
@@ -73,6 +73,13 @@ def make_dialogue_line(t1, t2, text):
     result = f"Dialogue: 0,{t1},{t2},{args.style},,0,0,0,,{text}"
     return result
 
+def read_bitflags(value, flag_values):
+    set_flags = []
+    for flag_name, flag_value in flag_values.items():
+        if value & flag_value:
+            set_flags.append(flag_name)
+    return set_flags
+
 def beatmap2kara(beatmap: slider.Beatmap, lyrics):    
     lines = []
     for line in lyrics.splitlines():
@@ -111,9 +118,13 @@ def beatmap2kara(beatmap: slider.Beatmap, lyrics):
                 kara = 'kf'
             if line_finished:
                 end_time = hit_object.end_time
-            
-        if HITSOUND_AS_INLINE_FX:
-            inline_fx = "\\-%s" % ('Auto', 'Norm', 'Soft', 'Drum')[int(hit_object.addition.split(":", 1)[0])]
+        
+        addition_spl = hit_object.addition.split(":")
+        if HITSOUNDS_AS_INLINE_FX:
+            inline_fx = "\\**%s" % ('Auto', 'Norm', 'Soft', 'Drum')[int(addition_spl[0])]
+            if hit_object.hitsound > 0:
+                inline_fx += "\\**"+"\\**".join(read_bitflags(hit_object.hitsound, {'Normal':1, 'Whistle':2, 'Finish':4, 'Clap':8}))
+
         duration = end_time - hit_object.time
         duration_cs = (duration.seconds + duration.microseconds/1000000) * 100
         ass_line_text += "{\\%s%s%s}%s" % (kara, int(round(duration_cs)), inline_fx, syllable)
@@ -126,7 +137,7 @@ def beatmap2kara(beatmap: slider.Beatmap, lyrics):
                 line_finished = True
             if line_finished:
                 if (not next_object.new_combo) and len(lines)>1:
-                    lines[-1].append('?')
+                    lines[-1].append('_')
                     has_missing_syllables = True
                 elif next_object.new_combo:
                     lines.pop()
@@ -146,7 +157,7 @@ def beatmap2kara(beatmap: slider.Beatmap, lyrics):
             output.append("".join(reversed(line)))
         output.append("File has extra lines!")
     if has_missing_syllables:
-        output.append("File has missing syllables! (marked with ?)")
+        output.append("File has missing syllables! (marked with _)")
     if has_additional_syllables:
         output.append("File has extra syllables! (marked with *)")
     return "\n".join(output)
