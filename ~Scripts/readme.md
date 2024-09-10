@@ -9,8 +9,7 @@ pip install slider
 
 https://github.com/user-attachments/assets/f154ac0f-6492-420a-a436-4ea96857f841
 
-
-Inline effects are used for karaoke flash colors and intensity
+Here, inline effects (hitsounds) are used for karaoke flash colors and intensity
 ### Inline effects usage in ass:
 Parse the added tags
 ```
