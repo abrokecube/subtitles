@@ -19,3 +19,7 @@ Then use 0x539 templater's if modifier
 ```
 code syl if Finish: kara_flash='&H6594FD&'
 ```
+Set color if syllable has both Whistle and Finish hitsounds
+```
+code syl: if (Whistle and Finish) then kara_flash='&HCC61FF&' end
+```
