@@ -9,7 +9,7 @@
     </tr>
 </table>
 
-![](./preview.png)
+![](./preview.webp)
 
 <p align='center'><b>Translation:</b> AngelSubs via <a href='https://vocaloidlyrics.fandom.com/wiki/%E3%81%8D%E3%82%85%E3%81%86%E3%81%8F%E3%82%89%E3%82%8A%E3%82%93_(Kyuukurarin)'>Vocaloid Lyrics Wiki</a></p>
 
