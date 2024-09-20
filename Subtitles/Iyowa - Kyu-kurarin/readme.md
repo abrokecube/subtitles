@@ -2,9 +2,9 @@
 
 <table align='center'>
     <tr>
-        <td> <img src='../.img/youtube.svg' width=30> </td>
+        <td> <img src='../.img/youtube.svg' alt='YouTube logo' width=30> </td>
         <td> https://youtu.be/2b1IexhKPz4 </td>
-        <td> <img src='../.img/nekocap.svg' width=27> </td>
+        <td> <img src='../.img/nekocap.svg' alt='NekoCap logo' width=27> </td>
         <td> https://nekocap.com/view/EiRyA9JJhb </td>
     </tr>
 </table>
