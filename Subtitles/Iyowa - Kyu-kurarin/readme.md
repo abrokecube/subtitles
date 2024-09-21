@@ -2,18 +2,20 @@
 
 <table align='center'>
     <tr>
-        <td> <img src='../.img/youtube.svg' alt='YouTube logo' width=30> </td>
-        <td> https://youtu.be/2b1IexhKPz4 </td>
-        <td> <img src='../.img/nekocap.svg' alt='NekoCap logo' width=27> </td>
-        <td> https://nekocap.com/view/EiRyA9JJhb </td>
+        <td> <img src='../.img/youtube.svg' alt='YouTube' width=25> &nbsp&nbsp https://youtu.be/2b1IexhKPz4 </td>
+        <td> <img src='../.img/nekocap.svg' alt='NekoCap' width=22> &nbsp&nbsp https://nekocap.com/view/EiRyA9JJhb </td>
     </tr>
 </table>
 
 ![](./preview.webp)
 
-<p align='center'><b>Translation:</b> AngelSubs via <a href='https://vocaloidlyrics.fandom.com/wiki/%E3%81%8D%E3%82%85%E3%81%86%E3%81%8F%E3%82%89%E3%82%8A%E3%82%93_(Kyuukurarin)'>Vocaloid Lyrics Wiki</a></p>
+<table align='center'>
+    <tr>
+        <td> Translation </td>
+        <td> AngelSubs via <a href='https://vocaloidlyrics.fandom.com/wiki/%E3%81%8D%E3%82%85%E3%81%86%E3%81%8F%E3%82%89%E3%82%8A%E3%82%93_(Kyuukurarin)'>Vocaloid Lyrics Wiki</a> </td>
+    </tr>
+</table>
 
----
 ## Folder info
 
 | File | Description |
@@ -26,3 +28,6 @@
 | Filename | Font name |
 | ---- | ---- |
 |`LEHN026.ttf`| LEHN026 |
+
+##
+You are free to use these subtitles for whatever purpose. Credit is not required, but is appriciated.
