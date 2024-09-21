@@ -7,7 +7,7 @@
     </tr>
 </table>
 
-![](./preview.webp)
+[![](./preview.webp)](https://www.youtube.com/watch?v=tyneiz9FRMw&nekocap=KQdrveI0BB)
 
 <table align='center'>
     <tr>
