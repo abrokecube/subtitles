@@ -33,9 +33,9 @@
 | Filename | Font name | NekoCap font? |
 | ---- | ---- | :--: |
 |`a22c5070c2e6f6a022db9a03e30b8300.ttf`| Madera |  |
+|`CCAstronautsInTrouble-Regular.ttf` | CC AstronautsInTrouble | Yes |
 |`Gaegu-But-Better-Regular - Copy - Copy.ttf`| Gaegu But Better | |
 |`KGSecondChances-Solid.ttf` | KG Second Chances Solid | |
-|`CCAstronautsInTrouble-Regular.ttf` | CC AstronautsInTrouble | Yes |
 
 ##
 You are free to use these subtitles for whatever purpose. Credit is not required, but is appriciated.
