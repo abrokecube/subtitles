@@ -16,11 +16,9 @@
     </tr>
     <tr>
         <td> <b> Other translations </b> </td>
-        <td>Machine translation[^1]</td>
+        <td>ChatGPT-4o</td>
     </tr>
 </table>
-
-[^1]: ChatGPT-4o cross-checked with [jisho](https://jisho.org/).
 
 **Uploaded:** September 17, 2024  
 **Last updated:** September 20, 2024
@@ -33,7 +31,7 @@
 
 ## Font list
 | Filename | Font name | NekoCap font? |
-| ---- | ---- | ---- |
+| ---- | ---- | :--: |
 |`a22c5070c2e6f6a022db9a03e30b8300.ttf`| Madera |  |
 |`Gaegu-But-Better-Regular - Copy - Copy.ttf`| Gaegu But Better | |
 |`KGSecondChances-Solid.ttf` | KG Second Chances Solid | |
