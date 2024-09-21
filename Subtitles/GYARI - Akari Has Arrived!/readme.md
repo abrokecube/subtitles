@@ -25,7 +25,8 @@
 
 Japanese onomatopoeia gaming  
 For all her little untranslated gremlin noises, I deviated from the romanization and tried my best to make them sound more English  
-GPT didn't know what "iyanhoho" was, jisho said it was a slang term for 'earphones.' Thanks [jisho](https://jisho.org/)
+GPT didn't know what "iyanhoho" was, jisho said it was a slang term for 'earphones.' Thanks [jisho](https://jisho.org/)  
+The file I submitted has been time shifted backwards by 1 frame. Makes the appearing dialogue bubbles look better on my machine, idk about yours. Please send me your feedback.
 
 ## Folder info
 
