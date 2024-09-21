@@ -23,6 +23,10 @@
 **Uploaded:** September 17, 2024  
 **Last updated:** September 20, 2024
 
+Japanese onomatopoeia gaming  
+For all her little untranslated gremlin noises, I deviated from the romanization and tried my best to make them sound more English  
+GPT didn't know what "iyanhoho" was, jisho said it was a slang term for 'earphones.' Thanks [jisho](https://jisho.org/)
+
 ## Folder info
 
 | File | Description |
