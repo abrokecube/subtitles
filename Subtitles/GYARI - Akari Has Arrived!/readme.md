@@ -38,7 +38,7 @@ The file I submitted has been time shifted backwards by 1 frame. Makes the appea
 | Filename | Font name | NekoCap font? |
 | ---- | ---- | :--: |
 | [`a22c5070c2e6f6a022db9a03e30b8300.ttf`](./fonts/a22c5070c2e6f6a022db9a03e30b8300.ttf) | Madera |  |
-| [`CCAstronautsInTrouble-Regular.ttf`](/../subtitles-fonts/NekoCap%20fonts/CCAstronautsInTrouble-Regular.ttf) | CC AstronautsInTrouble | Yes |
+| [`CCAstronautsInTrouble-Regular.ttf`](/../../../subtitles-fonts/NekoCap%20fonts/CCAstronautsInTrouble-Regular.ttf) | CC AstronautsInTrouble | Yes |
 | [`Gaegu-But-Better-Regular - Copy - Copy.ttf`](./fonts/Gaegu-But-Better-Regular%20-%20Copy%20-%20Copy.ttf) | Gaegu But Better | |
 | [`KGSecondChances-Solid.ttf`](./fonts/KGSecondChances-Solid.ttf) | KG Second Chances Solid | |
 
