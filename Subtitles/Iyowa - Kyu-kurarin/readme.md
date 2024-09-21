@@ -11,7 +11,7 @@
 
 <table align='center'>
     <tr>
-        <td> Translation </td>
+        <td> <b>Translation</b> </td>
         <td> AngelSubs via <a href='https://vocaloidlyrics.fandom.com/wiki/%E3%81%8D%E3%82%85%E3%81%86%E3%81%8F%E3%82%89%E3%82%8A%E3%82%93_(Kyuukurarin)'>Vocaloid Lyrics Wiki</a> </td>
     </tr>
 </table>
