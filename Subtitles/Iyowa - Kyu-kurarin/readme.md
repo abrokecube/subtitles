@@ -20,9 +20,10 @@
 
 | File | Description |
 | ---- | ----------- |
-|`kyu-kurarin.ass` | Base subtitle file, somewhat editable |
-|`kyu-kurarin.burned.ass` | Text converted to shapes, omits masking at 3:01, as the lag was too distracting |
-|`kyu-kurarin.export.ass` | File with comments removed; submitted file |
+|`kyu-kurarin.0.base.ass` | Base subtitle file, editable |
+|`kyu-kurarin.1.split.ass` | Split text for handwriting effect, somewhat editable |
+|`kyu-kurarin.2.burned.ass` | Text converted to shapes, omits masking at 3:01, as the lag was too distracting |
+|`kyu-kurarin.3.export.ass` | File with comments removed; submitted file |
 
 ## Font list
 | Filename | Font name |
