@@ -32,15 +32,15 @@ The file I submitted has been time shifted backwards by 1 frame. Makes the appea
 
 | File | Description |
 | ---- | ----------- |
-|`akari has arrived!.ass` | Base subtitle file |
+| [`akari has arrived!.ass`](./akari%20has%20arrived!.ass) | Base subtitle file |
 
 ## Font list
 | Filename | Font name | NekoCap font? |
 | ---- | ---- | :--: |
-|`a22c5070c2e6f6a022db9a03e30b8300.ttf`| Madera |  |
-|`CCAstronautsInTrouble-Regular.ttf` | CC AstronautsInTrouble | Yes |
-|`Gaegu-But-Better-Regular - Copy - Copy.ttf`| Gaegu But Better | |
-|`KGSecondChances-Solid.ttf` | KG Second Chances Solid | |
+| [`a22c5070c2e6f6a022db9a03e30b8300.ttf`](./fonts/a22c5070c2e6f6a022db9a03e30b8300.ttf) | Madera |  |
+| [`CCAstronautsInTrouble-Regular.ttf`](/../subtitles-fonts/NekoCap%20fonts/CCAstronautsInTrouble-Regular.ttf) | CC AstronautsInTrouble | Yes |
+| [`Gaegu-But-Better-Regular - Copy - Copy.ttf`](./fonts/Gaegu-But-Better-Regular%20-%20Copy%20-%20Copy.ttf) | Gaegu But Better | |
+| [`KGSecondChances-Solid.ttf`](./fonts/KGSecondChances-Solid.ttf) | KG Second Chances Solid | |
 
 ##
 You are free to use these subtitles for whatever purpose. Credit is not required, but is appriciated.
