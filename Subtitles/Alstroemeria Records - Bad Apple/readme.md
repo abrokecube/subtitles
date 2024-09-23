@@ -125,7 +125,7 @@ As a fun side effect, when the font is missing or the renderer fails to read the
 ## Font list
 | Filename | Font name |
 | ---- | ---- |
-| [`FTLTLT.TTF`](.fonts\FTLTLT.TTF) | Footlight MT Light |
+| [`FTLTLT.TTF`](./fonts/FTLTLT.TTF) | Footlight MT Light |
 
 ##
 You are free to use the files in this folder for whatever purpose. Credit is not required, but is appriciated.
