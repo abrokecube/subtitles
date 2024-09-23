@@ -4,20 +4,46 @@
 
 <img align='center' src='./img/preview.webp'>
 
+<br>
+
+<table align='center'>
+    <tr>
+        <td> <b>Translation source</b> </td>
+        <td> <a href="https://nyaa.si/view/1276867">[XC] Touhou - Bad Apple!! PV (WEB 540p VP9 12-bit WavPack v0)</a> </td>
+    </tr>
+</table>
+
 ### `bad apple_lyrics_360p.ass` - Most popular upload
-YouTube: https://www.youtube.com/watch?v=FtutLA63Cp8  
-NekoCap: https://nekocap.com/view/xAnFqXHiVO
+<table>
+    <tr>
+        <td> <img src='../.img/youtube.svg' alt='YouTube' width=27 align='center'> &nbsp https://youtu.be/FtutLA63Cp8 </td>
+        <td> <img src='../.img/nekocap.svg' alt='NekoCap' width=23 align='center'> &nbsp https://nekocap.com/view/xAnFqXHiVO </td>
+    </tr>
+</table>
+
+**Uploaded:** August 30, 2024
 
 ### `bad apple_lyrics_1080p.ass` - Official 1080p upload
-YouTube: https://www.youtube.com/watch?v=i41KoE0iMYU  
-NekoCap: https://nekocap.com/view/jWFqMLHAjo
+<table>
+    <tr>
+        <td> <img src='../.img/youtube.svg' alt='YouTube' width=27 align='center'> &nbsp https://youtu.be/i41KoE0iMYU </td>
+        <td> <img src='../.img/nekocap.svg' alt='NekoCap' width=23 align='center'> &nbsp https://nekocap.com/view/jWFqMLHAjo </td>
+    </tr>
+</table>
+
+**Uploaded:** August 30, 2024
 
 ### `bad apple_ass.ass` - Bad apple but it's ASS captions (under 20mb)
 **DON'T open this file**, it makes aegisub freeze while loading the file for some reason. instead, open  
 `bad_apple_ass_noembed.ass` - Caption file without embedded fonts  
+<table>
+    <tr>
+        <td> <img src='../.img/youtube.svg' alt='YouTube' width=27 align='center'> &nbsp https://youtu.be/G8DjxY8FNKA </td>
+        <td> <img src='../.img/nekocap.svg' alt='NekoCap' width=23 align='center'> &nbsp https://nekocap.com/view/o1YAv1n8xh </td>
+    </tr>
+</table>
 
-YouTube: https://www.youtube.com/watch?v=G8DjxY8FNKA   
-NekoCap: https://nekocap.com/view/o1YAv1n8xh
+**Uploaded:** September 2, 2024
 
 ### `bad apple.ass` - Subtitle file before feeding into scripts
 
@@ -95,3 +121,11 @@ I was originally going to use the "Supplementary Private Use Area-A" `(U+F0000..
 
 As a fun side effect, when the font is missing or the renderer fails to read the font, this happens:  
 ![](./img/missingfont.webp)
+
+## Font list
+| Filename | Font name |
+| ---- | ---- |
+| [`FTLTLT.TTF`](.fonts\FTLTLT.TTF) | Footlight MT Light |
+
+##
+You are free to use the files in this folder for whatever purpose. Credit is not required, but is appriciated.
