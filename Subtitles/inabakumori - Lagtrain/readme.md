@@ -12,7 +12,9 @@
 
 <table align='center'>
     <tr>
+        <!-- Translation -->
         <td><b>Translation</b></td>
+        <!--  AngelSubs (via [Vocaloid Lyrics Wiki](https://vocaloidlyrics.fandom.com/wiki/%E3%83%A9%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3_(Lag_Train))) -->
         <td>AngelSubs (via <a href="https://vocaloidlyrics.fandom.com/wiki/%E3%83%A9%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3_(Lag_Train)">Vocaloid Lyrics Wiki</a>)</td>
     </tr>
 </table>
@@ -20,7 +22,8 @@
 **Uploaded:** September 23, 2024  
 **Last updated:** September 23, 2024
 
-When the train is lag
+<!-- Description goes here -->
+when the train is lag
 
 ## Folder info
 
