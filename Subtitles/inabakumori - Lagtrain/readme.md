@@ -1,5 +1,5 @@
 
-<h1 align='center'>inabakumori - Lagtrain</h2>
+<h1 align='center'>inabakumori - Lagtrain</h1>
 
 <table align='center'>
     <tr>
