@@ -29,7 +29,7 @@ when the train is lag
 
 | File | Description |
 | ---- | ----------- |
-[`lagtrain.ass`](lagtrain.ass) | |
+[`lagtrain.ass`](lagtrain.ass) | Subtitle file |
 
 ## Font list
 
