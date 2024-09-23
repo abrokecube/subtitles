@@ -1,7 +1,7 @@
 
 <h2 align='center'>Monogatari Off & Monster Season ED - YOASOBI - Undead</h2>
 
-[![](./preview.webp)](https://www.youtube.com/watch?v=&nekocap=)
+![](./preview.webp)
 
 Ending video of Monogatari Series: Off & Monster Season
 
