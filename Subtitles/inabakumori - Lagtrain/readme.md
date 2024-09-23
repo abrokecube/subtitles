@@ -1,4 +1,38 @@
-YouTube: https://www.youtube.com/watch?v=UnIhRpIT7nc  
-NekoCap: https://nekocap.com/view/oTvFTE9EgF
 
-Translation: AngelSubs (via [Vocaloid Lyrics Wiki](https://vocaloidlyrics.fandom.com/wiki/%E3%83%A9%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3_(Lag_Train)))
+<h1 align='center'>inabakumori - Lagtrain</h2>
+
+<table align='center'>
+    <tr>
+        <td> <img src='../.img/youtube.svg' alt='YouTube' width=27 align='center'> &nbsp https://youtu.be/UnIhRpIT7nc </td>
+        <td> <img src='../.img/nekocap.svg' alt='NekoCap' width=23 align='center'> &nbsp https://nekocap.com/view/oTvFTE9EgF </td>
+    </tr>
+</table>
+
+[![](./preview.webp)](https://www.youtube.com/watch?v=UnIhRpIT7nc&nekocap=oTvFTE9EgF)
+
+<table align='center'>
+    <tr>
+        <td><b><p>Translation</p></b></td>
+        <td><p>AngelSubs (via <a href="https://vocaloidlyrics.fandom.com/wiki/%E3%83%A9%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3_(Lag_Train)">Vocaloid Lyrics Wiki</a>)</p></td>
+    <td>
+</table>
+
+**Uploaded:** September 18, 2024  
+**Last updated:** September 18, 2024
+
+when the train is lag
+
+## Folder info
+
+| File | Description |
+| ---- | ----------- |
+[`lagtrain.ass`](lagtrain.ass) | Subtitle file |
+
+## Font list
+
+| Filename | Font name | NekoCap font? |
+| ---- | ---- | :--: |
+ [`FOT-MatisseProN-B.otf`](./fonts/FOT-MatisseProN-B.otf) | MatisseProN-B | ❌ |
+
+##
+You are free to use these subtitles for whatever purpose. Credit is not required, but is appriciated.
