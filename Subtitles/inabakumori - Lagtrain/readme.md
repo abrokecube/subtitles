@@ -12,21 +12,21 @@
 
 <table align='center'>
     <tr>
-        <td><b><p>Translation</p></b></td>
-        <td><p>AngelSubs (via <a href="https://vocaloidlyrics.fandom.com/wiki/%E3%83%A9%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3_(Lag_Train)">Vocaloid Lyrics Wiki</a>)</p></td>
+        <td><b>Translation</b></td>
+        <td>AngelSubs (via <a href="https://vocaloidlyrics.fandom.com/wiki/%E3%83%A9%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3_(Lag_Train)">Vocaloid Lyrics Wiki</a>)</td>
     <td>
 </table>
 
-**Uploaded:** September 18, 2024  
-**Last updated:** September 18, 2024
+**Uploaded:** September 23, 2024  
+**Last updated:** September 23, 2024
 
-when the train is lag
+When the train is lag
 
 ## Folder info
 
 | File | Description |
 | ---- | ----------- |
-[`lagtrain.ass`](lagtrain.ass) | Subtitle file |
+[`lagtrain.ass`](lagtrain.ass) | |
 
 ## Font list
 
