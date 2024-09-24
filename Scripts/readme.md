@@ -6,7 +6,7 @@ funny scripts
 pip install slider
 ```
 ### See example usage in [Makeine OP - Tsuyogaru Girl](https://github.com/abrokecube/subtitles/tree/main/Makeine%20OP%20-%20Tsuyogaru%20Girl)
-(simpler example coming soon)   
+(simpler example coming soon<sup>TM</sup>)   
 
 https://github.com/user-attachments/assets/f154ac0f-6492-420a-a436-4ea96857f841
 
