@@ -16,8 +16,8 @@ Ending video of Monogatari Series: Off & Monster Season
 
 | Filename | Font name | NekoCap font? |
 | ---- | ---- | :--: |
- [`Comfortaa-Regular.ttf`](https%3A//github.com/abrokecube/subtitles-fonts/blob/main/NekoCap%2520fonts/Comfortaa-Regular.ttf) | Comfortaa Regular | ✔️ |
- [`erasdus0.ttf`](https%3A//github.com/abrokecube/subtitles-fonts/blob/main/NekoCap%2520fonts/erasdus0.ttf) | EraserDust | ✔️ |
+ [`Comfortaa-Regular.ttf`](https://github.com/abrokecube/subtitles-fonts/blob/main/NekoCap%20fonts/Comfortaa-Regular.ttf) | Comfortaa Regular | ✔️ |
+ [`erasdus0.ttf`](https://github.com/abrokecube/subtitles-fonts/blob/main/NekoCap%20fonts/erasdus0.ttf) | EraserDust | ✔️ |
 
 <!-- Permissions -->
 ## 
