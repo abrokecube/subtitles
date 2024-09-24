@@ -3,7 +3,7 @@
 
 <table align='center'>
     <tr>
-        <td> <img src='../../.img/youtube.svg' alt='YouTube' width=27 align='center'> &nbsp https://youtu.be/GT-rbPzXDnE </td>
+        <td colspan=2 align=center> <img src='../../.img/youtube.svg' alt='YouTube' width=27 align='center'> &nbsp https://youtu.be/GT-rbPzXDnE </td>
     </tr>
     <tr>
         <td> <img src='../../.img/nekocap.svg' alt='NekoCap' width=23 align='center'> &nbsp<b>YouDeer:</b> https://nekocap.com/view/6kMwVw3vuR </td>
