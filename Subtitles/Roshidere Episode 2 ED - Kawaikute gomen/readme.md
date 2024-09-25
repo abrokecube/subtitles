@@ -13,7 +13,7 @@
 <table align='center'>
     <tr>
         <!-- Translation -->
-        <td><b>Translation</b></td>
+        <td><b>Subtitle source</b></td>
         <!--  [[Chihiro] Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san - 02 [1080p Hi10P AAC][09BFAE04].mkv](https://nyaa.si/view/1847496) -->
         <td><a href="https://nyaa.si/view/1847496">[Chihiro] Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san - 02 [1080p Hi10P AAC][09BFAE04].mkv</a></td>
     </tr>
