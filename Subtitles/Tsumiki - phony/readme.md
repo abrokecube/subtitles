@@ -42,10 +42,11 @@ needs more blur
 [`pixelize.py`](pixelize.py) | Pixel mosaic effect using image capture and line with rect clip - uses [fansubBlock.ttf](./fonts/fansubBlock.ttf) |
 
 ### Test
-![](.img/test.png)
+<img src='.img/test.png' width=500>
+
 
 ### dupli-blur
-![](.img/dupli-blur%20preview.png)
+<img src='.img/dupli-blur preview.png' width=500>
 
 I used 5-7 samples in the subtitle
 ```lua
@@ -56,7 +57,7 @@ NORMALIZE = true
 ```
 
 ### pixelize
-![](.img/pixelize%20preview.png)
+<img src='.img/pixelize preview.png' width=500>
 
 ```python
 # Dialogue: 0,0:00:00.00,0:00:05.00,Sign,,0,0,0,,{\fs350\fnYu Mincho Demibold\clip(110.35,86.4,751.65,379.2)}Test
@@ -66,12 +67,12 @@ SCALE_NEAREST = False
 ```
 
 ### simple_infinite_yblur
-![](.img/simple_infinite_blur%20preview.png)
+<img src='.img/simple_infinite_blur preview.png' width=500>
 
 with `\4a&HD0&`
 
 ### complex_infinite_blur
-![](.img/complex_infinite_blur%20preview.png)
+<img src='.img/complex_infinite_blur preview.png' width=500>
 
 ```lua
 SAMPLES = 10
