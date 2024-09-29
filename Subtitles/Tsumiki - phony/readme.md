@@ -46,6 +46,7 @@ needs more blur
 
 ### dupli-blur
 ![](.img/dupli-blur%20preview.png)
+
 I used 5-7 samples in the subtitle
 ```lua
 SAMPLES = 20
@@ -71,6 +72,7 @@ with `\4a&HD0&`
 
 ### complex_infinite_blur
 ![](.img/complex_infinite_blur%20preview.png)
+
 ```lua
 SAMPLES = 10
 REAL_BLUR_AMNT = 3
