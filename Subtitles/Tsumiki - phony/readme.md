@@ -29,7 +29,7 @@
 **Last updated:** September 29, 2024
 
 <!-- Description goes here -->
-NOTE: NEEDS MORE BLUR
+needs more blur
 
 ## Folder info
 
