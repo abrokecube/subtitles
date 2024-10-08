@@ -8,12 +8,10 @@
     </tr>
 </table>
 
-<center>
-    <a ref="https://www.youtube.com/watch?v=2pFwQiwRbcg&nekocap=9IAhGipK9v">
-        <img src="./preview.webp">
-    </a>
-    <p>...or you can attempt the one-block vertical jump for the beef.</p>
-</center>
+<a href="https://www.youtube.com/watch?v=2pFwQiwRbcg&nekocap=9IAhGipK9v">
+    <img src="./preview.webp">
+</a>
+<p align='center'>...or you can attempt the one-block vertical jump for the beef.</p>
 
 **Uploaded:** October 07, 2024  
 **Last updated:** October 07, 2024
