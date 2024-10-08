@@ -8,8 +8,12 @@
     </tr>
 </table>
 
+<center>
+
 [![](./preview.webp)](https://www.youtube.com/watch?v=2pFwQiwRbcg&nekocap=9IAhGipK9v)
 ...or you can attempt the one-block vertical jump for the beef.
+
+</center>
 
 **Uploaded:** October 07, 2024  
 **Last updated:** October 07, 2024
