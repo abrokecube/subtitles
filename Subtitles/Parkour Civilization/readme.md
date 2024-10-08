@@ -9,10 +9,10 @@
 </table>
 
 <center>
-
-[![](./preview.webp)](https://www.youtube.com/watch?v=2pFwQiwRbcg&nekocap=9IAhGipK9v)
-...or you can attempt the one-block vertical jump for the beef.
-
+    <a ref="https://www.youtube.com/watch?v=2pFwQiwRbcg&nekocap=9IAhGipK9v">
+        <img src="./preview.webp">
+    </a>
+    <p>...or you can attempt the one-block vertical jump for the beef.</p>
 </center>
 
 **Uploaded:** October 07, 2024  
