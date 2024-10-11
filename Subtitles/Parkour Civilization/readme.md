@@ -21,7 +21,8 @@ I did this for the meme
 
 Script created using Whisper transcription as a base. Timed from scratch.  
 Includes episode start titles and a recap timer for easier skipping.  
-Vine booms are also subbed because yes
+Vine booms are also subbed because yes  
+May contain transcription mistakes (i was speedrunning this)
 
 ## Folder info
 
