@@ -21,7 +21,7 @@
 </table>
 
 **Uploaded:** September 17, 2024  
-**Last updated:** September 26, 2024
+**Last updated:** October 11, 2024
 
 Japanese onomatopoeia gaming  
 For all her little untranslated gremlin noises, I deviated from the romanization and tried my best to make them sound more English  
