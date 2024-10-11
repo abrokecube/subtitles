@@ -14,7 +14,7 @@
 <p align='center'>...or you can attempt the one-block vertical jump for the beef.</p>
 
 **Uploaded:** October 07, 2024  
-**Last updated:** October 07, 2024
+**Last updated:** October 11, 2024
 
 <!-- Description goes here -->
 I did this for the meme
