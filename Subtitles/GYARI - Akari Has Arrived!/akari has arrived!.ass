@@ -16,9 +16,9 @@ Video File: アカリがやってきたぞっ - GYARI (1080p, av1, youtube) (rem
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 1963
-Active Line: 2263
-Video Position: 5405
+Scroll Position: 1972
+Active Line: 2298
+Video Position: 6400
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -491,8 +491,8 @@ Dialogue: 0,0:00:41.03,0:00:41.89,Kizuna Akari,,0,0,0,,{\fs130\bord1\clip(m 1358
 Dialogue: 0,0:00:41.89,0:00:42.76,Sign,,0,0,0,,{\pos(960,540)\p1}m 607.96 -374.08 l 611.23 -291.47 903.78 -277.47 923.84 -296.6 918.71 -375.02
 Dialogue: 0,0:00:41.89,0:00:42.76,Kizuna Akari,,0,0,0,,{\fs120\bord1.5\1a&H00&\pos(1588.35,163.11)\ko0\shad0.01\4c&H0C3D51&\alpha&HFF&\4a&H19&}J{\fsp18\fscy101}a{\fax-.2\fsp-17\fscy100}a{\fax.1\fsp10\fscy95}a{\fax-.02\fsp-8\fscy93}a{\fax0.1\fsp0\fscy100}n{\fax-.07}!
 Dialogue: 0,0:00:42.76,0:00:43.43,Sign,,0,0,0,,{\pos(960,540)\p1}m 579.57 -50.61 l 684.85 -40.44 742.15 -25.41 739.31 48.17 707.2 53.86 646.64 58.73 529.59 73.77 522.27 59.14 520.24 -6.3 542.19 -34.35
-Dialogue: 0,0:00:42.76,0:00:43.43,Kizuna Akari,,0,0,0,,{\fs100\pos(1533.268,438.516)\frz4.683\fscx120\fscy120\bord1.2\shad0.01\ko0\4c&H0C3D51&\alpha&HFF&\4a&H19&}Goro
-Dialogue: 0,0:00:42.76,0:00:43.43,Kizuna Akari,,0,0,0,,{\fs100\frz2.252\pos(1626.46,489)\fscx120\fscy120\bord1.2\shad0.01\ko0\4c&H0C3D51&\alpha&HFF&\4a&H19&}goro
+Dialogue: 0,0:00:42.76,0:00:43.43,Kizuna Akari,,0,0,0,,{\fs100\frz4.683\fscx96\fscy96\bord0.96\shad0.008\ko0\4c&H0C3D51&\alpha&HFF&\4a&H19&\pos(1453.88,459.72)}Goro
+Dialogue: 0,0:00:42.76,0:00:43.43,Kizuna Akari,,0,0,0,,{\fs100\frz2.252\fscx96\fscy96\bord0.96\shad0.008\ko0\4c&H0C3D51&\alpha&HFF&\4a&H19&\pos(1528.43,500.11)}goro
 Dialogue: 0,0:00:43.43,0:00:43.86,Sign,,0,0,0,,{\pos(960,540)\p1}m 104.66 -77.62 l 158.13 -69.42 252.31 -49.67 260.21 -19.9 226.79 13.52 176.65 23.55 83.4 24.46 51.2 10.18 46.64 -39.64 64.87 -55.74
 Dialogue: 0,0:00:43.43,0:00:43.86,Kizuna Akari,,0,0,0,,{\fs100\frz2.595\1a&H00&\bord2\pos(1007.7,462.12)\ko0\shad0.01\4c&H0C3D51&\alpha&HFF&\4a&H19&}Deenn
 Dialogue: 0,0:00:43.86,0:00:44.53,Sign,,0,0,0,,{\pos(960,540)\p1}m 118.78 -357.92 l 265.7 -353.66 279.09 -352.14 282.13 -276.69 267.53 -271.52 173.23 -270 94.14 -273.04 47.6 -281.56 56.73 -330.24 62.89 -343.28 67.59 -349.9 72.5 -354.82
@@ -2326,8 +2326,8 @@ Dialogue: 0,0:02:59.77,0:03:00.20,Kizuna Akari,,0,0,0,,{\fs110\bord2.5\fscy90.60
 Dialogue: 0,0:02:59.77,0:03:00.20,Kizuna Akari,,0,0,0,,{\fs105.429\bord2.5\fax0.087\frz354.1\pos(1725.27,229.57)\ko0\shad0.01\4c&H0C3D51&\alpha&HFF&\4a&HC2&\t(\4a&HFF&)}!
 Dialogue: 0,0:02:59.77,0:03:00.20,Kizuna Akari,,0,0,0,,{\pos(1792.43,207.73)\ko0\shad0.01\4c&H0C3D51&\alpha&HFF&\4a&HC2&\t(\4a&HFF&)}
 Dialogue: 0,0:03:33.53,0:03:33.93,Sign,,0,0,0,,{\p1\fscx219\fscy219\bord0\shad0\pos(946.76,755.87)}m -7.05 -264.67 l -10.08 -204.55 67.78 -185.1 126.6 -201.1 138.08 -205.92 146.46 -210.5 160.23 -214.01 170.76 -214.01 172.92 -197.27 181.83 -187 202.9 -204.29 201.54 -247.23 189.39 -264.78 127.01 -280.73 3.6 -266.4
-Dialogue: 0,0:03:33.53,0:03:33.93,Kizuna Akari,,0,0,0,,{\fs90\frx350\fry16\frz6.835\fscx219\fscy219\bord2.19\shad0.01\3c&H04FFFE&\t(34,34,\3c&H05FFFE&)\t(67,67,\3c&H02E2FB&)\t(100,100,\3c&H04ABFF&)\t(134,134,\3c&H0686CC&)\t(167,167,\3c&H076FAC&)\t(201,201,\3c&H07629A&)\t(234,234,\3c&H055688&)\t(267,267,\3c&H044D7A&)\t(301,301,\3c&H03476F&)\t(334,334,\3c&H023F63&)\t(367,367,\3c&H013B5B&)\pos(812.93,137.1)\ko0\4c&H013B5B&\alpha&HFF&\4a&H19&}Kira
-Dialogue: 0,0:03:33.53,0:03:33.93,Kizuna Akari,,0,0,0,,{\fs90\frz352.6\fscx219\fscy219\bord2.19\shad0.01\3c&H04FFFE&\t(34,34,\3c&H05FFFE&)\t(67,67,\3c&H02E2FB&)\t(100,100,\3c&H04ABFF&)\t(134,134,\3c&H0686CC&)\t(167,167,\3c&H076FAC&)\t(201,201,\3c&H07629A&)\t(234,234,\3c&H055688&)\t(267,267,\3c&H044D7A&)\t(301,301,\3c&H03476F&)\t(334,334,\3c&H023F63&)\t(367,367,\3c&H013B5B&)\pos(1066.42,137.08)\ko0\4c&H013B5B&\alpha&HFF&\4a&H19&}kira
+Dialogue: 0,0:03:33.53,0:03:33.93,Kizuna Akari,,0,0,0,,{\fs90\frx350\fry16\frz6.835\fscx219\fscy219\bord2.19\shad0.01\4c&H04FFFE&\t(34,34,\4c&H05FFFE&)\t(67,67,\4c&H02E2FB&)\t(100,100,\4c&H04ABFF&)\t(134,134,\4c&H0686CC&)\t(167,167,\4c&H076FAC&)\t(201,201,\4c&H07629A&)\t(234,234,\4c&H055688&)\t(267,267,\4c&H044D7A&)\t(301,301,\4c&H03476F&)\t(334,334,\4c&H023F63&)\t(367,367,\4c&H013B5B&)\pos(812.93,137.1)\ko0\alpha&HFF&\4a&H19&}Kira
+Dialogue: 0,0:03:33.53,0:03:33.93,Kizuna Akari,,0,0,0,,{\fs90\frz352.6\fscx219\fscy219\bord2.19\shad0.01\4c&H04FFFE&\t(34,34,\4c&H05FFFE&)\t(67,67,\4c&H02E2FB&)\t(100,100,\4c&H04ABFF&)\t(134,134,\4c&H0686CC&)\t(167,167,\4c&H076FAC&)\t(201,201,\4c&H07629A&)\t(234,234,\4c&H055688&)\t(267,267,\4c&H044D7A&)\t(301,301,\4c&H03476F&)\t(334,334,\4c&H023F63&)\t(367,367,\4c&H013B5B&)\pos(1066.42,137.08)\ko0\alpha&HFF&\4a&H19&}kira
 Dialogue: 0,0:03:33.93,0:03:34.40,Sign,,0,0,0,,{\p1\pos(969.35,762.9)}m 102.64 -455.41 l 100.04 -459.22 99.43 -461.02 99.03 -463.43 101.44 -464.63 114.47 -467.24 149.15 -466.22 223.03 -423.62 333.26 -422.84 453.26 -425.96 491.17 -489.68 454.43 -608.89 390.72 -609.68 330.13 -621.79 99.9 -628.44 45.18 -603.42 26.42 -460.75 29.54 -438.08 102.64 -439.64
 Dialogue: 0,0:03:33.93,0:03:34.40,Kizuna Akari,,0,0,0,,{\fs85\frz0.0957\bord2.737\fscx219\fscy219\shad0.01\pos(882.6,148.74)\ko0\4c&H0C3D51&\alpha&HFF&\4a&H09&}Pika
 Dialogue: 0,0:03:33.93,0:03:34.40,Kizuna Akari,,0,0,0,,{\fs85\bord2.737\fscx219\fscy219\shad0.01\pos(1122.43,162.64)\ko0\4c&H0C3D51&\alpha&HFF&\4a&H09&}pika
