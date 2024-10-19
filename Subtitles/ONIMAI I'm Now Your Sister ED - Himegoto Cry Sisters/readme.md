@@ -3,12 +3,20 @@
 
 <table align='center'>
     <tr>
+        <td> <b>TOHO animation (creditless)</b> </td>
+        <td> <img src='../.img/youtube.svg' alt='YouTube' width=27 align='center'> &nbsp https://youtu.be/qrgaRfJUSyY </td>
+        <td> <img src='../.img/nekocap.svg' alt='NekoCap' width=23 align='center'> &nbsp https://nekocap.com/view/BBtRAE4MWr </td>
+    </tr>
+</table>
+<table align='center'>
+    <tr>
+        <td> <b>Crunchyroll</b> </td>
         <td> <img src='../.img/youtube.svg' alt='YouTube' width=27 align='center'> &nbsp https://youtu.be/F1Gm_LXTUGc </td>
         <td> <img src='../.img/nekocap.svg' alt='NekoCap' width=23 align='center'> &nbsp https://nekocap.com/view/yhcpDus9jX </td>
     </tr>
 </table>
 
-[![](./preview.webp)](https://www.youtube.com/watch?v=F1Gm_LXTUGc&nekocap=yhcpDus9jX)
+[![](./preview.webp)](https://www.youtube.com/watch?v=qrgaRfJUSyY&nekocap=BBtRAE4MWr)
 
 <table align='center'>
     <tr>
@@ -20,7 +28,7 @@
 </table>
 
 **Uploaded:** October 18, 2024  
-**Last updated:** October 18, 2024
+**Last updated:** October 19, 2024
 
 <!-- Description goes here -->
 
@@ -28,7 +36,8 @@
 
 | File | Description |
 | ---- | ----------- |
-[`himegoto cry sisters.ass`](himegoto%20cry%20sisters.ass) | Subtitle file |
+[`himegoto cry sisters toho.ass`](himegoto%20cry%20sisters%20toho.ass) | TOHO animation upload (creditless) |
+[`himegoto cry sisters.ass`](himegoto%20cry%20sisters.ass) | Crunchyroll upload |
 
 ## Font list
 
@@ -36,6 +45,7 @@
 | ---- | ---- | :--: |
  [`DENNEMARKER.TTF`](./fonts/DENNEMARKER.TTF) | Denne Marker | ❌ |
  [`MaplestoryBold.ttf`](https://github.com/abrokecube/subtitles-fonts/tree/main/NekoCap%20fonts/MaplestoryBold.ttf) | Maplestory Bold | ✔️ |
+ [`MaplestoryLight.ttf`](https://github.com/abrokecube/subtitles-fonts/tree/main/NekoCap%20fonts/MaplestoryLight.ttf) | Maplestory Light | ✔️ |
 
 <!-- Permissions -->
 ## 
