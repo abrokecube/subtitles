@@ -12,10 +12,10 @@
 
 <table align='center'>
     <tr>
-        <!-- [[Okay-Subs] Onimai -->
-        <td><b>[[Okay-Subs] Onimai</b></td>
-        <!--  I'm Now Your Sister! (WEB 1080p) (Uncensored) | Oniichan wa Oshimai! | Onii-chan](https://nyaa.si/view/1654825) -->
-        <td>I'm Now Your Sister! (WEB 1080p) (Uncensored) | Oniichan wa Oshimai! | Onii-chan](https://nyaa.si/view/1654825)</td>
+        <!-- Source -->
+        <td><b>Source</b></td>
+        <!--  [[Okay-Subs] Onimai: I'm Now Your Sister! (WEB 1080p) (Uncensored) | Oniichan wa Oshimai! | Onii-chan](https://nyaa.si/view/1654825) -->
+        <td><a href="https://nyaa.si/view/1654825">[Okay-Subs] Onimai: I'm Now Your Sister! (WEB 1080p) (Uncensored) | Oniichan wa Oshimai! | Onii-chan</a></td>
     </tr>
 </table>
 
