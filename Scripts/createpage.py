@@ -65,11 +65,11 @@ def ask_path(prompt, default='', start_path=None):
             print("Not a valid path.")
 
 
-def ask_directory(prompt, default=""):
+def ask_directory(prompt, default="", validate_default=True):
     path = ""
     while True:
         path = ask(prompt, default)
-        if os.path.isdir(path):
+        if os.path.isdir(path) or ((not validate_default) and path == default):
             return path
         else:
             print("Not a valid directory.")
@@ -129,7 +129,10 @@ def get_all_files(directory, glob_="*"):
 
 SUBTITLE_FOLDER = ask_directory("Input/Output folder path. Should have at least one .ass file", "./")
 FONT_FOLDER = os.path.join(SUBTITLE_FOLDER, FONT_FOLDER_PATH)
-
+EXTERNAL_FONT_FOLDER = ask_directory("External fonts:", "", False)
+ext_fonts_scan_subdirs = False
+if EXTERNAL_FONT_FOLDER:
+    ext_fonts_scan_subdirs = ask_yes_no("Scan subdirectories for fonts?", False)
 common_fonts = []
 for file in glob.glob(os.path.join(COMMON_FONTS_FOLDER, "*.*")):
     common_fonts.append(os.path.basename(file).lower())
@@ -137,9 +140,13 @@ for file in glob.glob(os.path.join(COMMON_FONTS_FOLDER, "*.*")):
 FONT_LISTING: Set[Font] = set()
 
 font_coll_strat = font_collector.FontSelectionStrategyLibass()
-add_fonts = font_collector.FontLoader.load_additional_fonts([pathlib.Path(COMMON_FONTS_FOLDER),], True)
+add_fonts = font_collector.FontLoader.load_additional_fonts([pathlib.Path(COMMON_FONTS_FOLDER),], ext_fonts_scan_subdirs)
 common_font_collection = font_collector.FontCollection(additional_fonts=add_fonts, use_system_font=False)
-system_font_collection = font_collector.FontCollection()
+if EXTERNAL_FONT_FOLDER:
+    extfonts = font_collector.FontLoader.load_additional_fonts([pathlib.Path(EXTERNAL_FONT_FOLDER),])
+    system_font_collection = font_collector.FontCollection(additional_fonts=extfonts)
+else:
+    system_font_collection = font_collector.FontCollection()
 num_missing_fonts = 0
 sub_file_count = 0
 font_results = []
