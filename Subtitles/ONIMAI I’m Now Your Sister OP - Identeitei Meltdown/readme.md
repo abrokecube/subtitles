@@ -24,7 +24,7 @@
 
 <!-- Description goes here -->
 today i learned that this button will fuck up everything  
-![](.\20241018132734_aegisub.png)  
+![](./20241018132734_aegisub.png)  
 don't use it on frame-by-frame events
 
 ## Folder info
