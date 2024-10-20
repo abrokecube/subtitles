@@ -65,4 +65,4 @@ I finished this before realizing they didn't have anything past the first three 
 
 <!-- Permissions -->
 ## 
-You are free to use these subtitles for whatever purpose. Credit is not required, but is appriciated.
+You are free to use these subtitles for whatever purpose. Please keep any credits listed in the subs. Credit is not required, but is appreciated.
