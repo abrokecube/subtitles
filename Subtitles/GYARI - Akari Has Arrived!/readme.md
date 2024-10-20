@@ -43,4 +43,4 @@ The file I submitted has been time shifted backwards by 1 frame. Makes the appea
 | [`KGSecondChances-Solid.ttf`](./fonts/KGSecondChances-Solid.ttf) | KG Second Chances Solid |  ❌ |
 
 ##
-You are free to use these subtitles for whatever purpose. Please keep any credits listed in the subs. Credit is not required, but is appreciated.
+You are free to use these subtitles for whatever purpose. Please retain any credits listed in the subs. Credit to me is not required, but is appriciated.
