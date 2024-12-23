@@ -35,7 +35,7 @@
 
 | Filename | Font name | NekoCap font? |
 | ---- | ---- | :--: |
- [`firstcoffeeneuro.ttf`](./fonts/firstcoffeeneuro%20-%20Copy%20-%20Copy%20-%20Copy.ttf) | First Coffee Neuro | ❌ |
+ [`firstcoffeeneuro.ttf`](./fonts/firstcoffeeneuro.ttf) | First Coffee Neuro | ❌ |
 
 <!-- Permissions -->
 ## 
