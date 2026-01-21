@@ -94,4 +94,4 @@ fansub block in 2024 wow
 
 <!-- Permissions -->
 ## 
-You are free to use these subtitles for whatever purpose. Please retain any credits listed in the subs. Credit to me is not required, but is appriciated.
+You are free to use these subtitles for whatever purpose. Please retain any credits listed in the subs. Credit to me is not required, but is appreciated.
