@@ -14,8 +14,8 @@
     <tr>
         <!-- Translation -->
         <td><b>Translation</b></td>
-        <!--  Official TL via [Vocaloid Lyrics Wiki](https://vocaloidlyrics.fandom.com/wiki/%E3%83%A1%E3%82%BA%E3%83%9E%E3%83%A9%E3%82%A4%E3%82%B6%E3%83%BC_(Mesmerizer)) -->
-        <td>Official TL via <a href="https://vocaloidlyrics.fandom.com/wiki/%E3%83%A1%E3%82%BA%E3%83%9E%E3%83%A9%E3%82%A4%E3%82%B6%E3%83%BC_(Mesmerizer)">Vocaloid Lyrics Wiki</a></td>
+        <!--  Official TL via [Vocaloid Lyrics Wiki](https://vocaloidlyrics.miraheze.org/wiki/%E3%83%A1%E3%82%BA%E3%83%9E%E3%83%A9%E3%82%A4%E3%82%B6%E3%83%BC_(Mesmerizer)) -->
+        <td>Official TL via <a href="https://vocaloidlyrics.miraheze.org/wiki/%E3%83%A1%E3%82%BA%E3%83%9E%E3%83%A9%E3%82%A4%E3%82%B6%E3%83%BC_(Mesmerizer)">Vocaloid Lyrics Wiki</a></td>
     </tr>
     <tr>
         <!-- Other translations -->

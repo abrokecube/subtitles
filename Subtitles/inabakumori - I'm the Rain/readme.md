@@ -14,8 +14,8 @@
     <tr>
         <!-- Translation -->
         <td><b>Translation</b></td>
-        <!--  JaysAndRavens47, with edits by Thai1210 via [Vocaloid Lyrics Wiki](https://vocaloidlyrics.fandom.com/wiki/%E7%A7%81%E3%81%AF%E9%9B%A8_(Watashi_wa_Ame)) -->
-        <td>JaysAndRavens47, with edits by Thai1210 via <a href="https://vocaloidlyrics.fandom.com/wiki/%E7%A7%81%E3%81%AF%E9%9B%A8_(Watashi_wa_Ame)">Vocaloid Lyrics Wiki</a></td>
+        <!--  JaysAndRavens47, with edits by Thai1210 via [Vocaloid Lyrics Wiki](https://vocaloidlyrics.miraheze.org/wiki/%E7%A7%81%E3%81%AF%E9%9B%A8_(Watashi_wa_Ame)) -->
+        <td>JaysAndRavens47, with edits by Thai1210 via <a href="https://vocaloidlyrics.miraheze.org/wiki/%E7%A7%81%E3%81%AF%E9%9B%A8_(Watashi_wa_Ame)">Vocaloid Lyrics Wiki</a></td>
     </tr>
     <tr>
         <!-- Other translations -->

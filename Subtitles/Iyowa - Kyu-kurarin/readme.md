@@ -14,8 +14,8 @@
     <tr>
         <!-- Translation -->
         <td><b>Translation</b></td>
-        <!--  AngelSubs via [Vocaloid Lyrics Wiki](https://vocaloidlyrics.fandom.com/wiki/%E3%81%8D%E3%82%85%E3%81%86%E3%81%8F%E3%82%89%E3%82%8A%E3%82%93_(Kyuukurarin)) -->
-        <td>AngelSubs via <a href="https://vocaloidlyrics.fandom.com/wiki/%E3%81%8D%E3%82%85%E3%81%86%E3%81%8F%E3%82%89%E3%82%8A%E3%82%93_(Kyuukurarin)">Vocaloid Lyrics Wiki</a></td>
+        <!--  AngelSubs via [Vocaloid Lyrics Wiki](https://vocaloidlyrics.miraheze.org/wiki/%E3%81%8D%E3%82%85%E3%81%86%E3%81%8F%E3%82%89%E3%82%8A%E3%82%93_(Kyuukurarin)) -->
+        <td>AngelSubs via <a href="https://vocaloidlyrics.miraheze.org/wiki/%E3%81%8D%E3%82%85%E3%81%86%E3%81%8F%E3%82%89%E3%82%8A%E3%82%93_(Kyuukurarin)">Vocaloid Lyrics Wiki</a></td>
     </tr>
 </table>
 

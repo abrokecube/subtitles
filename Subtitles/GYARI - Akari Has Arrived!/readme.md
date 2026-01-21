@@ -12,7 +12,7 @@
 <table align='center'>
     <tr>
         <td> <b>Lyrics Translation</b> </td>
-        <td> Anonymous via <a href='https://vocaloidlyrics.fandom.com/wiki/%E3%82%A2%E3%82%AB%E3%83%AA%E3%81%8C%E3%82%84%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F%E3%81%9E%E3%81%A3_(Akari_ga_Yatte_Kita_zo)'> Vocaloid Lyrics Wiki </a> </td>
+        <td> Anonymous via <a href='https://vocaloidlyrics.miraheze.org/wiki/%E3%82%A2%E3%82%AB%E3%83%AA%E3%81%8C%E3%82%84%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F%E3%81%9E%E3%81%A3_(Akari_ga_Yatte_Kita_zo)'> Vocaloid Lyrics Wiki </a> </td>
     </tr>
     <tr>
         <td> <b> Other translations </b> </td>
