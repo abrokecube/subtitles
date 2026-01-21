@@ -19,8 +19,8 @@
     </tr>
 </table>
 
-**Uploaded:** January 21, 2026  
-**Last updated:** January 21, 2026
+**Uploaded:** January 20, 2026  
+**Last updated:** January 20, 2026
 
 <!-- Description goes here -->
 
