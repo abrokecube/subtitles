@@ -14,8 +14,8 @@
     <tr>
         <!-- Translation -->
         <td><b>Translation</b></td>
-        <!--  AngelSubs (via [Vocaloid Lyrics Wiki](https://vocaloidlyrics.fandom.com/wiki/%E3%83%A9%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3_(Lag_Train))) -->
-        <td>AngelSubs (via <a href="https://vocaloidlyrics.fandom.com/wiki/%E3%83%A9%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3_(Lag_Train)">Vocaloid Lyrics Wiki</a>)</td>
+        <!--  AngelSubs (via [Vocaloid Lyrics Wiki](https://vocaloidlyrics.miraheze.org/wiki/%E3%83%A9%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3_(Lagtrain))) -->
+        <td>AngelSubs (via <a href="https://vocaloidlyrics.miraheze.org/wiki/%E3%83%A9%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3_(Lagtrain)">Vocaloid Lyrics Wiki</a>)</td>
     </tr>
 </table>
 

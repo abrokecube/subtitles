@@ -14,8 +14,8 @@
     <tr>
         <!-- Translation -->
         <td><b>Lyrics translation</b></td>
-        <!--  Bedrose [Vocaloid Lyrics Wiki](https://vocaloidlyrics.fandom.com/wiki/%E3%83%86%E3%83%88%E3%83%AA%E3%82%B9_(Tetoris)) -->
-        <td>Bedrose (<a href="https://vocaloidlyrics.fandom.com/wiki/%E3%83%86%E3%83%88%E3%83%AA%E3%82%B9_(Tetoris)">Vocaloid Lyrics Wiki</a>)</td>
+        <!--  Bedrose [Vocaloid Lyrics Wiki](https://vocaloidlyrics.miraheze.org/wiki/%E3%83%86%E3%83%88%E3%83%AA%E3%82%B9_(Tetoris)) -->
+        <td>Bedrose (<a href="https://vocaloidlyrics.miraheze.org/wiki/%E3%83%86%E3%83%88%E3%83%AA%E3%82%B9_(Tetoris)">Vocaloid Lyrics Wiki</a>)</td>
     </tr>
 </table>
 

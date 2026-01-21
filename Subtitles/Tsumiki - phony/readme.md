@@ -14,8 +14,8 @@
     <tr>
         <!-- Translation -->
         <td><b>Translation</b></td>
-        <!--  Pupleon via [Vocaloid Lyrics Wiki](https://vocaloidlyrics.fandom.com/wiki/%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A4_(phony)) -->
-        <td>Pupleon via <a href="https://vocaloidlyrics.fandom.com/wiki/%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A4_(phony)">Vocaloid Lyrics Wiki</a></td>
+        <!--  Pupleon via [Vocaloid Lyrics Wiki](https://vocaloidlyrics.miraheze.org/wiki/%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A4_(phony)) -->
+        <td>Pupleon via <a href="https://vocaloidlyrics.miraheze.org/wiki/%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A4_(phony)">Vocaloid Lyrics Wiki</a></td>
     </tr>
     <tr>
         <!-- Also see -->

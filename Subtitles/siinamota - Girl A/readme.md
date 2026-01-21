@@ -14,8 +14,8 @@
     <tr>
         <!-- Translation -->
         <td><b>Translation</b></td>
-        <!--  Official TL via [Vocaloid Lyrics Wiki](https://vocaloidlyrics.fandom.com/wiki/%E5%B0%91%E5%A5%B3A_(Shoujo_A)) -->
-        <td>Official TL via <a href="https://vocaloidlyrics.fandom.com/wiki/%E5%B0%91%E5%A5%B3A_(Shoujo_A)">Vocaloid Lyrics Wiki</a></td>
+        <!--  Official TL via [Vocaloid Lyrics Wiki](https://vocaloidlyrics.miraheze.org/wiki/%E5%B0%91%E5%A5%B3A_(Shoujo_A)) -->
+        <td>Official TL via <a href="https://vocaloidlyrics.miraheze.org/wiki/%E5%B0%91%E5%A5%B3A_(Shoujo_A)">Vocaloid Lyrics Wiki</a></td>
     </tr>
 </table>
 
