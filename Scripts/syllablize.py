@@ -30,6 +30,7 @@ def syllablize(text, syllablize_level):
             line = re.sub(r"\"\|", r"|\"", line)
             line = re.sub(r" ([^| ])", r" |\1", line)
             line = line.lstrip("|")
+            line = line.replace("\\\"", "\"")
             out.append(line)
         return out
 
@@ -56,7 +57,7 @@ if __name__ == "__main__":
     else:
         text = sys.stdin.read()
 
-    syllablize_level = 2
+    syllablize_level = 1
     result = syllablize(text, syllablize_level)
 
     if file_in and SAVE_FILE:
