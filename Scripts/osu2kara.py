@@ -44,7 +44,7 @@ parser.add_argument(
     help='Path to a text file containing lyrics with syllables split with \'|\' character'
 )
 parser.add_argument(
-    "--style", default="Romanji", help="Style of output lines"
+    "--style", default="Romanji", help="Style name of output lines"
 )
 parser.add_argument(
     "--no_combo_split", action='store_true',
@@ -94,6 +94,8 @@ def beatmap2kara(beatmap: slider.Beatmap, lyrics):
     ass_line_text = ""
     has_missing_syllables = False
     has_additional_syllables = False
+    line_duration = 0
+    line_duration_rounded_cs = 0
     for idx, hit_object in enumerate(hit_objects):
         if len(lines) == 0:
             has_missing_syllables = True
@@ -121,14 +123,17 @@ def beatmap2kara(beatmap: slider.Beatmap, lyrics):
         
         addition_spl = hit_object.addition.split(":")
         if HITSOUNDS_AS_INLINE_FX:
-            inline_fx = "\\**%s" % ('Auto', 'Norm', 'Soft', 'Drum')[int(addition_spl[0])]
+            inline_fx = "\\**%s" % ('A', 'N', 'S', 'D')[int(addition_spl[0])]
             if hit_object.hitsound > 0:
-                inline_fx += "\\**"+"\\**".join(read_bitflags(hit_object.hitsound, {'Normal':1, 'Whistle':2, 'Finish':4, 'Clap':8}))
+                inline_fx += "\\**"+"\\**".join(read_bitflags(hit_object.hitsound, {'No':1, 'Wh':2, 'Fi':4, 'Cl':8}))
 
         duration = end_time - hit_object.time
-        duration_cs = (duration.seconds + duration.microseconds/1000000) * 100
+        line_duration += (duration.seconds + duration.microseconds/1000000)
+        new_line_duration_cs = int(line_duration * 100)
+        duration_cs = new_line_duration_cs - line_duration_rounded_cs
         ass_line_text += "{\\%s%s%s}%s" % (kara, int(round(duration_cs)), inline_fx, syllable)
-
+        line_duration_rounded_cs = new_line_duration_cs
+        
         if (not args.no_combo_split):
             if next_object.new_combo:
                 while len(lines[-1]) > 0:
@@ -149,6 +154,8 @@ def beatmap2kara(beatmap: slider.Beatmap, lyrics):
             output.append(make_dialogue_line(line_start_t, end_time, ass_line_text))
             line_start_t = None
             ass_line_text = ""
+            line_duration = 0
+            line_duration_rounded_cs = 0
 
     if len(ass_line_text) > 0:
         output.append(make_dialogue_line(line_start_t, end_time, ass_line_text))
