@@ -336,7 +336,11 @@ output = f"""
     </tr>
 </table>
 
-[![](./preview.webp)]({NEKOCAP_YOUTUBE_REF})
+<p align='center'>
+    <a href='{NEKOCAP_YOUTUBE_REF}'>
+        <img src='./preview.webp'>
+    </a>
+</p>
 
 {HTML_SUB_CREDITS}
 
