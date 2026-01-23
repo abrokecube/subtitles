@@ -8,7 +8,9 @@
     </tr>
 </table>
 
-[![](./preview.webp)](https://www.youtube.com/watch?v=vnw8zURAxkU&nekocap=ft6mTAWZIm)
+<p align='center'>
+<a href='https://www.youtube.com/watch?v=vnw8zURAxkU&nekocap=ft6mTAWZIm'><img src='./preview.webp'></a>
+</p>
 
 <table align='center'>
     <tr>
