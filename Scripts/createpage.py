@@ -17,7 +17,7 @@ INFO_FILE_NAME = "./readme.md"
 FONT_FOLDER_PATH = "./fonts"
 COMMON_FONTS_FOLDER = "D:\\Documents\\FontBase\\NekoCap"
 COMMON_FONTS_URL_START = "https://github.com/abrokecube/subtitles-fonts/tree/main/NekoCap%20fonts"
-DEFAULT_IMAGE_FOLDER = "C:\\Users\\abrokecube\\Pictures\\mpv"
+DEFAULT_IMAGE_FOLDER = "C:\\Users\\borkedcube\\Pictures\\mpv"
 
 parser = argparse.ArgumentParser(formatter_class=argparse.ArgumentDefaultsHelpFormatter)
 parser.add_argument(
