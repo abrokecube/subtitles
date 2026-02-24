@@ -33,6 +33,7 @@
 | File | Description |
 | ---- | ----------- |
 [`looping the rooms.ass`](looping%20the%20rooms.ass) | Subtitle file |
+[`pixelize.py`](pixelize.py) | Pixel mosaic effect using image capture and line with rect clip - uses [fansubBlock.ttf](./fonts/fansubBlock.ttf) |
 
 ## Font list
 
